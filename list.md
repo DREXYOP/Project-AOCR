@@ -3,7 +3,7 @@
 - [ ] arduino
 - [x] servo (3)
 - [ ] Dc motor
-- [ ] wires
+- [x] wires
 - [ ] battery
-- [ ] esp32 cam
+- [x] esp32 cam
 
