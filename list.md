@@ -2,6 +2,7 @@
 
 - [ ] arduino
 - [x] servo (3)
+- [x] ultrasonic sensor
 - [ ] Dc motor
 - [x] wires
 - [ ] battery
