@@ -1,9 +1,9 @@
 ## list of required components
 
-- [] arduino
+- [ ] arduino
 - [x] servo (3)
-- [] Dc motor
-- [] wires
-- [] battery
-- [] esp32 cam
+- [ ] Dc motor
+- [ ] wires
+- [ ] battery
+- [ ] esp32 cam
 
