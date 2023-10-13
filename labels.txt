@@ -1,0 +1,7 @@
+0 mobile
+1 bottle
+2 ewaste
+3 human
+4 paper
+5 plastic
+6 watch
